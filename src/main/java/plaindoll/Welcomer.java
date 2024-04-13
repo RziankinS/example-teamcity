@@ -13,7 +13,8 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
-	public String sayHunter(){
-		return "The young hunter knew that he was addressing a man"
+	public String sayHello(){
+		return "Something about a hunter";
 	}
+	
 }
