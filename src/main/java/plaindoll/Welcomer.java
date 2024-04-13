@@ -15,4 +15,5 @@ public class Welcomer{
 	}
 	public String sayHunter(){
 		return "The young hunter knew that he was addressing a man"
+	}
 }
